@@ -12,6 +12,7 @@ def mul(x, y):
 
 def divide(x, y):
     return x / y
+    print("This is division")
 
 
 def square(x):
